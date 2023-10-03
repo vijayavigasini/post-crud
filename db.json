@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "name": "raji",
+      "email": "raji123@gmail.com",
+      "city": "thh",
+      "pincode": 432123,
+      "phonenumber": 6543212343,
+      "id": 5
+    },
+    {
+      "name": "jilu",
+      "email": "jilu123@gmail.com",
+      "city": "hvsdjhc",
+      "pincode": 876543,
+      "phonenumber": 9876543237,
+      "id": 6
+    },
+    {
+      "name": "ajith",
+      "email": "aji123@gmail.com",
+      "city": "hgvjh",
+      "pincode": 8765433,
+      "phonenumber": 8765432765,
+      "id": 7
+    },
+    {
+      "name": "priyanka",
+      "email": "priya1123@gmail.com",
+      "city": "hgvj",
+      "pincode": 876546,
+      "phonenumber": 9876543445,
+      "id": 8
+    }
+  ]
+}
